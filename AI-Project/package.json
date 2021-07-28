@@ -1,0 +1,22 @@
+{
+  "name": "AI-Project",
+  "version": "0.0.1",
+  "description": "YouTube Project by Miri",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "Miri",
+    "YouTubeProject"
+  ],
+  "author": "Miri",
+  "license": "MIT",
+  "dependencies": {
+    "codare.ai": "^1.0.1",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
